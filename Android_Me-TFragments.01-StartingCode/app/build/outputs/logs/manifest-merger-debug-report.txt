@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6090be737f3a7947cedd2cbe6c8c6b35\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7ceaed5927f00b065fabee5201cd4e0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0.aar\804ce04537a9677ce5011e4fb85a266b\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cf10f578db07137bf33857f7a001c116\AndroidManifest.xml:17:1-22:12
@@ -32,25 +33,27 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\John\.gradle\caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fd958fcb84ad6b66de1d47bb42d212e6\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2d9dda79e106d94d6b74bed64398996b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d0311f5cf926fe00a8c3602b56ee267c\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
+		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-20:12
+		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:5:5-18:19
+ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6090be737f3a7947cedd2cbe6c8c6b35\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6090be737f3a7947cedd2cbe6c8c6b35\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6311c275e2814c918d83174bb27e2287\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6311c275e2814c918d83174bb27e2287\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9ec3087cc8547fcd622b7b92bd3468af\AndroidManifest.xml:22:5-23:19
@@ -67,10 +70,10 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John\.grad
 		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:10:9-40
-activity#com.example.android.android_me.ui.AndroidMeActivity
+activity#com.example.android.android_me.ui.MainActivity
 ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:11:19-55
+		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:11:19-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
@@ -81,10 +84,16 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.android.android_me.ui.AndroidMeActivity
+ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml:18:19-55
 uses-sdk
 INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\John\AndroidStudioProjects\Fragments_training\Android_Me-TFragments.01-StartingCode\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6090be737f3a7947cedd2cbe6c8c6b35\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6090be737f3a7947cedd2cbe6c8c6b35\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7ceaed5927f00b065fabee5201cd4e0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c7ceaed5927f00b065fabee5201cd4e0\AndroidManifest.xml:20:5-44
 MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\John\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0.aar\804ce04537a9677ce5011e4fb85a266b\AndroidManifest.xml:5:5-44
