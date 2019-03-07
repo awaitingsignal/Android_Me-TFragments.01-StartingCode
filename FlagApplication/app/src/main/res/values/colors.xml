@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGermany1">#000000</color>
+    <color name="colorGermany2">#DD0000</color>
+    <color name="colorGermany3">#FFCE00</color>
+
+    <color name="colorNetherlands1">#AE1C28</color>
+    <color name="colorNetherlands2">#FFFFFF</color>
+    <color name="colorNetherlands3">#21468B</color>
+
+    <color name="colorEstonia1">#0072CE</color>
+    <color name="colorEstonia2">#000000</color>
+    <color name="colorEstonia3">#FFFFFF</color>
+</resources>
