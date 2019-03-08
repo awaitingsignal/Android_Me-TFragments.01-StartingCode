@@ -24,7 +24,7 @@ public class DisplayFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_layout, container, false);
-        textView = view.findViewById(R.id.text_view);
+        textView = view.findViewById(R.id.textdisplaycount);
         textView.setText(String.valueOf(counter));
 
         return view;
@@ -34,4 +34,6 @@ public class DisplayFragment extends Fragment {
         this.counter = counter;
         textView.setText(String.valueOf(counter));
     }
+
+
 }

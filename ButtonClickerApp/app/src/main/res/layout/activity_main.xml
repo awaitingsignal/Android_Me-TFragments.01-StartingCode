@@ -19,7 +19,6 @@
         android:layout_width="151dp"
         android:layout_height="152dp"
         android:background="@drawable/roundedbutton"
-        android:onClick="increaseInteger"
         android:text="Click Me"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -27,10 +26,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fragment_top" />
 
-    <FrameLayout
+<!--    <FrameLayout
         android:id="@+id/integer_number"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:background="@color/colorPrimary" />
+        android:background="@color/colorPrimary" />-->
 
 </android.support.constraint.ConstraintLayout>
